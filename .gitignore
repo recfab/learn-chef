@@ -1,2 +1,7 @@
 .vagrant/
 **/nodes/
+
+*.pem
+*.crt
+
+.DS_store
