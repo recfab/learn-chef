@@ -5,6 +5,6 @@
 *.pem
 *.crt
 
-*.log
+**/.kitchen/
 
 .DS_store
