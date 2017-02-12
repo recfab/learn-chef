@@ -20,3 +20,4 @@ version '0.1.0'
 
 depends 'apt', '~> 4.0'
 depends 'firewall', '~> 2.5'
+depends 'httpd', '~> 0.4'
