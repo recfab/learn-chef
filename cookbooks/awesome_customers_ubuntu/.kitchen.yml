@@ -15,3 +15,7 @@ suites:
     run_list:
       - recipe[awesome_customers_ubuntu::default]
     attributes:
+        awesome_customers_ubuntu:
+          database:
+            root_password: 'mysql_root_password'
+            admin_password: 'mysql_admin_password'
