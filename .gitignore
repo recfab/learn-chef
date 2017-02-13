@@ -8,3 +8,4 @@
 **/.kitchen/
 
 .DS_store
+*.sublime-workspace
